@@ -1,0 +1,9 @@
+---
+title:  Safety Controller for Autonomous Driving, A Case Study for ABZ 2025
+date:   2018-11-28 15:01:35 +0300
+description: >-
+  A short description here
+image:  '/images/post-2.jpg'
+tags:   [abz]
+---
+A full description here
