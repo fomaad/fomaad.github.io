@@ -1,5 +1,10 @@
 title: Formal Method and Autonomous Driving
 
+plugins:
+  - jekyll-bookshop
+  - jekyll-sitemap
+  - jekyll/tagging
+
 # Multiple bookshops can be used on one website,
 # or different production / staging locations.
 bookshop_locations:
