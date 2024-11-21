@@ -4,7 +4,7 @@ footer_menu__settings:
       url: '/'
     - title: 'Projects'
       url: '/project/'
-    - title: 'About'
+    - title: 'About Us'
       url: '/about/'
 
 copyright_text_html: >-

@@ -41,7 +41,7 @@ layout: default
                   %}
                 </p>
           
-                <div class="article__meta">
+                <!-- <div class="article__meta">
                   <div class="article__author-image">
                     <img loading="lazy" src="{{ site.data.author.author_image }}" alt="{{ site.data.author.author_name }}">
                   </div>
@@ -49,7 +49,7 @@ layout: default
                     <div class="article__author-name">{{ site.data.author.author_name }}</div>
                     <span class="article__date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></span>
                   </div>
-                </div>
+                </div> -->
           
               </div>
             </div>
@@ -60,10 +60,3 @@ layout: default
     </div>
   </div>
 </div>
-
-{% bookshop
-  newsletter newsletter_title=site.data.newsletter.newsletter_title
-  newsletter_description=site.data.newsletter.newsletter_description
-  newsletter_identifier=site.data.newsletter.newsletter_identifier
-  newsletter_button=site.data.newsletter.newsletter_button
-%}

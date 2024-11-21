@@ -34,3 +34,4 @@ Using the Maude LTL model checker, AW-Checker verifies whether the trace satisfi
 Leveraging the Maude LTL model checker offers two key benefits: it provides high performance and helps avoid potential bugs that could arise from self-implemented search/checking algorithms.
 
 The framework's source code is available at [https://github.com/duongtd23/AW-Runtime-Verification](https://github.com/duongtd23/AW-Runtime-Verification).
+A paper reporting this framework has been submitted to an IEEE Transactions journal and is currently under review.

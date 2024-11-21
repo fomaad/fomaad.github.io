@@ -2,7 +2,7 @@
 title:  Autoware Safety Analysis in cutin, cutout, and deceleration scenarios
 date:   2018-11-29 15:01:35 +0300
 description: >-
-  We propose a framework for runtime verification of ADSs, comprising a scenario description language, a runtime monitor, and an LTL property checker.
+  We evaluate the safety of Autoware, a leading ADS platform, in the three traffic disturbance scenarios, leveraging our Runtime Verification Framework.  
 image:  '/images/aw-runtime-verif.png'
 tags:   [Safety-Analysis, Autoware]
 ---
